@@ -74,7 +74,7 @@ Repository for progress of kunal kushwaha DSA playlist
 >   * * [ ]  Solving Divide and Conquer Recurrence Relations
 >   * * [ ]  Big-O, Big-Omega, Big-Theta Notations
 >   * * [ ]  Get equation of any relation easily - best and easiest approach
->   * * [x]  Complexity discussion of all the problems we do
+>   * * [_]  Complexity discussion of all the problems we do
 >   * * [ ]  Space Complexity
 >   * * [ ]  Memory Allocation of various languages
 >   * * [ ]  NP Completeness and Hardness
