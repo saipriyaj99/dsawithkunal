@@ -1,8 +1,8 @@
 # dsawithkunal
 Repository for progress of kunal kushwaha DSA playlist 
-> # Progress Tracker
-> ## DSA
-> * [ ]  Complete Git & GitHub Course
+# Progress Tracker
+## DSA
+* [ ]  Complete Git & GitHub Course
 > * [ ]  Introduction to Programming
 >   
 >   * * [ ]  Types of languages
